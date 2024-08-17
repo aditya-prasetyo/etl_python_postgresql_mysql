@@ -1,0 +1,6 @@
+SQLAlchemy==2.0.30
+mysql-connector-python==8.4.0
+psycopg2-binary==2.9.9
+tqdm==4.66.4
+numpy==1.26.4
+python-dotenv==1.0.1
